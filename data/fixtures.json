@@ -118,10 +118,12 @@
       "venue_note": "米兰官网赛程列示场馆",
       "venue_source": "https://www.acmilan.com/en/season/active/schedule/all",
       "source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "status": "Fixture",
+      "status": "Live",
+      "home_score": 2,
+      "away_score": 0,
       "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 3,
-      "modified": "2026-09-14T01:46:31Z",
+      "sequence": 4,
+      "modified": "2026-10-22T20:32:38Z",
       "created": "2026-09-08T06:34:56Z"
     },
     {
@@ -886,10 +888,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-10-22T17:05:03Z",
-    "lanzhou": "2026-10-22T17:05:03Z"
+    "milan": "2026-10-22T20:32:38Z",
+    "lanzhou": "2026-10-22T20:32:38Z"
   },
-  "checked_at": "2026-10-22T17:05:03Z",
+  "checked_at": "2026-10-22T20:32:38Z",
   "errors": {},
   "crosscheck_status": "ok"
 }

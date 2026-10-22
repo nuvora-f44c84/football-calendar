@@ -84,13 +84,14 @@ CATEGORIES:AC米兰
 END:VEVENT
 BEGIN:VEVENT
 UID:milan-6a957ee0af5945385cfd8460@football-calendar.ricadre.github.io
-DTSTAMP:20260914T014631Z
+DTSTAMP:20261022T203238Z
 CREATED:20260908T063456Z
-LAST-MODIFIED:20260914T014631Z
-SEQUENCE:3
+LAST-MODIFIED:20261022T203238Z
+SEQUENCE:4
 DTSTART:20261022T190000Z
 DTEND:20261022T210000Z
-SUMMARY:【客场】伯恩茅斯 vs AC米兰｜欧联杯 · 第3轮
+SUMMARY:【进行中】【客场】伯恩茅斯 2–0 AC米兰｜欧联杯 
+ · 第3轮
 LOCATION:Vitality Stadium
 DESCRIPTION:伯恩茅斯（主） vs AC米兰（客）\n主客：AC米兰
  客场\n欧联杯 · 第3轮\n开球（北京时间）：2026-10-23 03:00\
@@ -98,23 +99,12 @@ DESCRIPTION:伯恩茅斯（主） vs AC米兰（客）\n主客：AC米兰
  \n场馆说明：米兰官网赛程列示场馆\n赛程来源：https://ww
  w.acmilan.com/en/season/active/schedule/all\n场馆来源：https://www.ac
  milan.com/en/season/active/schedule/all\n日历预留120分钟；实际终
- 场时间可能变化。
+ 场时间可能变化。\n当前比分（非实时推送）：伯恩茅斯
+  2–0 AC米兰
 URL:https://www.acmilan.com/en/season/active/schedule/all
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:AC米兰
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【客场】伯恩茅斯 vs AC米兰｜欧联杯 · 第3轮\n10
- 月23日 03:00 北京时间\nVitality Stadium
-TRIGGER:-PT21600S
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【客场】伯恩茅斯 vs AC米兰｜欧联杯 · 第3轮\n10
- 月23日 03:00 北京时间\nVitality Stadium
-TRIGGER:-PT1800S
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:milan-6a31e7fbc63e9a4df43c92fa@football-calendar.ricadre.github.io
