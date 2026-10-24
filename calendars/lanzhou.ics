@@ -61,13 +61,13 @@ CATEGORIES:兰州陇原竞技
 END:VEVENT
 BEGIN:VEVENT
 UID:lanzhou-14640213@football-calendar.ricadre.github.io
-DTSTAMP:20261024T131741Z
+DTSTAMP:20261024T165501Z
 CREATED:20260908T063456Z
-LAST-MODIFIED:20261024T131741Z
-SEQUENCE:5
+LAST-MODIFIED:20261024T165501Z
+SEQUENCE:6
 DTSTART:20261024T113000Z
 DTEND:20261024T133000Z
-SUMMARY:【进行中】【客场】温州队 0–0 兰州陇原竞技｜中
+SUMMARY:【已结束】【客场】温州队 0–0 兰州陇原竞技｜中
  乙保级组第28轮
 LOCATION:温州体育中心体育场
 DESCRIPTION:温州队（主） vs 兰州陇原竞技（客）\n主客：兰
@@ -76,8 +76,8 @@ DESCRIPTION:温州队（主） vs 兰州陇原竞技（客）\n主客：兰
  按主队常用主场列示；该队曾有场地调整，本场以赛事
  公告为准\n赛程来源：https://www.henduoqiu.com/bisai/14640213\n场
  馆来源：https://news.66wz.com/system/2026/06/14/105789083.shtml\n日
- 历预留120分钟；实际终场时间可能变化。\n当前比分（非
- 实时推送）：温州队 0–0 兰州陇原竞技
+ 历预留120分钟；实际终场时间可能变化。\n终场比分：温
+ 州队 0–0 兰州陇原竞技
 URL:https://www.henduoqiu.com/bisai/14640213
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
