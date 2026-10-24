@@ -134,15 +134,17 @@
       "source": "https://www.henduoqiu.com/bisai/14640213",
       "start": "2026-10-24T11:30:00Z",
       "date": "2026-10-24",
-      "status": "Fixture",
+      "status": "Live",
       "tentative": false,
       "competition": "中乙保级组第28轮",
       "venue": "温州体育中心体育场",
       "venue_note": "按主队常用主场列示；该队曾有场地调整，本场以赛事公告为准",
       "venue_source": "https://news.66wz.com/system/2026/06/14/105789083.shtml",
+      "home_score": 0,
+      "away_score": 0,
       "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 4,
-      "modified": "2026-09-14T02:47:13Z",
+      "sequence": 5,
+      "modified": "2026-10-24T13:17:41Z",
       "created": "2026-09-08T06:34:56Z"
     },
     {
@@ -888,10 +890,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-10-24T09:05:08Z",
-    "lanzhou": "2026-10-24T09:05:08Z"
+    "milan": "2026-10-24T13:17:41Z",
+    "lanzhou": "2026-10-24T13:17:41Z"
   },
-  "checked_at": "2026-10-24T09:05:08Z",
+  "checked_at": "2026-10-24T13:17:41Z",
   "errors": {},
   "crosscheck_status": "ok"
 }
