@@ -1,27 +1,6 @@
 {
   "games": [
     {
-      "id": "lanzhou-14640204",
-      "team": "lanzhou",
-      "home": "兰州陇原竞技",
-      "away": "广东铭途",
-      "source": "https://www.henduoqiu.com/bisai/14640204",
-      "start": "2026-10-11T08:00:00Z",
-      "date": "2026-10-11",
-      "status": "Played",
-      "tentative": false,
-      "competition": "中乙保级组第26轮",
-      "venue": "兰州奥体中心玫瑰体育场",
-      "venue_note": "按主队2026赛季常用主场列示；临时换场以本场赛事公告为准",
-      "venue_source": "https://m.17500.cn/zq/data-stadium/match-16387",
-      "home_score": 1,
-      "away_score": 2,
-      "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 6,
-      "modified": "2026-10-11T13:28:10Z",
-      "created": "2026-09-08T06:34:56Z"
-    },
-    {
       "id": "milan-6a31e801c63e9a4df43c9393",
       "team": "milan",
       "start": "2026-10-11T16:00:00Z",
@@ -890,10 +869,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-10-25T05:14:27Z",
-    "lanzhou": "2026-10-25T05:14:27Z"
+    "milan": "2026-10-25T10:06:18Z",
+    "lanzhou": "2026-10-25T10:06:18Z"
   },
-  "checked_at": "2026-10-25T05:14:27Z",
+  "checked_at": "2026-10-25T10:06:18Z",
   "errors": {},
   "crosscheck_status": "ok"
 }
