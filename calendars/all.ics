@@ -132,13 +132,13 @@ CATEGORIES:兰州陇原竞技
 END:VEVENT
 BEGIN:VEVENT
 UID:milan-6a31e7fbc63e9a4df43c92fa@football-calendar.ricadre.github.io
-DTSTAMP:20261025T204514Z
+DTSTAMP:20261025T231059Z
 CREATED:20260908T063456Z
-LAST-MODIFIED:20261025T204514Z
-SEQUENCE:4
+LAST-MODIFIED:20261025T231059Z
+SEQUENCE:5
 DTSTART:20261025T194500Z
 DTEND:20261025T214500Z
-SUMMARY:【进行中】【客场】乌迪内斯 0–1 AC米兰｜意甲 · 
+SUMMARY:【已结束】【客场】乌迪内斯 0–2 AC米兰｜意甲 · 
  第8轮
 LOCATION:Bluenergy Stadium
 DESCRIPTION:乌迪内斯（主） vs AC米兰（客）\n主客：AC米兰
@@ -147,8 +147,7 @@ DESCRIPTION:乌迪内斯（主） vs AC米兰（客）\n主客：AC米兰
  \n场馆说明：米兰官网赛程列示场馆\n赛程来源：https://ww
  w.acmilan.com/en/season/active/schedule/all\n场馆来源：https://www.ac
  milan.com/en/season/active/schedule/all\n日历预留120分钟；实际终
- 场时间可能变化。\n当前比分（非实时推送）：乌迪内斯
-  0–1 AC米兰
+ 场时间可能变化。\n终场比分：乌迪内斯 0–2 AC米兰
 URL:https://www.acmilan.com/en/season/active/schedule/all
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
