@@ -1,27 +1,6 @@
 {
   "games": [
     {
-      "id": "milan-6a31e801c63e9a4df43c9393",
-      "team": "milan",
-      "start": "2026-10-11T16:00:00Z",
-      "date": "2026-10-11",
-      "tentative": false,
-      "home": "萨索洛",
-      "away": "AC米兰",
-      "competition": "意甲 · 第6轮",
-      "venue": "MAPEI Stadium",
-      "venue_note": "米兰官网赛程列示场馆",
-      "venue_source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "status": "Played",
-      "home_score": 1,
-      "away_score": 1,
-      "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 4,
-      "modified": "2026-10-11T18:25:49Z",
-      "created": "2026-09-08T06:34:56Z"
-    },
-    {
       "id": "milan-6a957ee3af5945385cfd8517",
       "team": "milan",
       "start": "2026-10-15T16:45:00Z",
@@ -869,10 +848,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-10-25T14:20:50Z",
-    "lanzhou": "2026-10-25T14:20:50Z"
+    "milan": "2026-10-25T17:49:36Z",
+    "lanzhou": "2026-10-25T17:49:36Z"
   },
-  "checked_at": "2026-10-25T14:20:50Z",
+  "checked_at": "2026-10-25T17:49:36Z",
   "errors": {},
   "crosscheck_status": "ok"
 }
