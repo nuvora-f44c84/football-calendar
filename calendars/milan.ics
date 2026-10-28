@@ -107,13 +107,14 @@ CATEGORIES:AC米兰
 END:VEVENT
 BEGIN:VEVENT
 UID:milan-6a31e7f9c63e9a4df43c92ae@football-calendar.ricadre.github.io
-DTSTAMP:20260914T014631Z
+DTSTAMP:20261028T190442Z
 CREATED:20260908T063456Z
-LAST-MODIFIED:20260914T014631Z
-SEQUENCE:3
+LAST-MODIFIED:20261028T190442Z
+SEQUENCE:4
 DTSTART:20261028T173000Z
 DTEND:20261028T193000Z
-SUMMARY:【主场】AC米兰 vs 博洛尼亚｜意甲 · 第9轮
+SUMMARY:【进行中】【主场】AC米兰 2–3 博洛尼亚｜意甲 · 
+ 第9轮
 LOCATION:圣西罗球场（San Siro / Giuseppe Meazza）
 DESCRIPTION:AC米兰（主） vs 博洛尼亚（客）\n主客：AC米兰
  主场\n意甲 · 第9轮\n开球（北京时间）：2026-10-29 01:30\n
@@ -121,23 +122,12 @@ DESCRIPTION:AC米兰（主） vs 博洛尼亚（客）\n主客：AC米兰
  （San Siro / Giuseppe Meazza）\n场馆说明：米兰官网赛程列示
  场馆\n赛程来源：https://www.acmilan.com/en/season/active/schedule/a
  ll\n场馆来源：https://www.acmilan.com/en/season/active/schedule/all\n
- 日历预留120分钟；实际终场时间可能变化。
+ 日历预留120分钟；实际终场时间可能变化。\n当前比分（
+ 非实时推送）：AC米兰 2–3 博洛尼亚
 URL:https://www.acmilan.com/en/season/active/schedule/all
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:AC米兰
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【主场】AC米兰 vs 博洛尼亚｜意甲 · 第9轮\n10月
- 29日 01:30 北京时间\n圣西罗球场（San Siro / Giuseppe Meazza）
-TRIGGER:-PT16200S
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【主场】AC米兰 vs 博洛尼亚｜意甲 · 第9轮\n10月
- 29日 01:30 北京时间\n圣西罗球场（San Siro / Giuseppe Meazza）
-TRIGGER:-PT1800S
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:milan-6a31e7f6c63e9a4df43c9262@football-calendar.ricadre.github.io
