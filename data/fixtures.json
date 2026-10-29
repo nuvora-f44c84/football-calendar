@@ -1,27 +1,6 @@
 {
   "games": [
     {
-      "id": "milan-6a957ee3af5945385cfd8517",
-      "team": "milan",
-      "start": "2026-10-15T16:45:00Z",
-      "date": "2026-10-15",
-      "tentative": false,
-      "home": "萨尔茨堡红牛",
-      "away": "AC米兰",
-      "competition": "欧联杯 · 第2轮",
-      "venue": "Red Bull Arena",
-      "venue_note": "米兰官网赛程列示场馆",
-      "venue_source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "status": "Played",
-      "home_score": 0,
-      "away_score": 4,
-      "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 5,
-      "modified": "2026-10-15T21:17:44Z",
-      "created": "2026-09-08T06:34:56Z"
-    },
-    {
       "id": "lanzhou-14640208",
       "team": "lanzhou",
       "home": "兰州陇原竞技",
@@ -852,10 +831,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-10-29T09:49:39Z",
-    "lanzhou": "2026-10-29T09:49:39Z"
+    "milan": "2026-10-29T16:52:38Z",
+    "lanzhou": "2026-10-29T16:52:38Z"
   },
-  "checked_at": "2026-10-29T09:49:39Z",
+  "checked_at": "2026-10-29T16:52:38Z",
   "errors": {},
   "crosscheck_status": "ok"
 }
