@@ -12,30 +12,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT30M
 X-PUBLISHED-TTL:PT30M
 URL:https://nuvora-f44c84.github.io/football-calendar/calendars/lanzhou.ics
 BEGIN:VEVENT
-UID:lanzhou-14640208@football-calendar.ricadre.github.io
-DTSTAMP:20261017T091509Z
-CREATED:20260908T063456Z
-LAST-MODIFIED:20261017T091509Z
-SEQUENCE:5
-DTSTART:20261017T070000Z
-DTEND:20261017T090000Z
-SUMMARY:【已结束】【主场】兰州陇原竞技 0–0 广州蒲公英
- ｜中乙保级组第27轮
-LOCATION:兰州奥体中心玫瑰体育场
-DESCRIPTION:兰州陇原竞技（主） vs 广州蒲公英（客）\n主客
- ：兰州陇原竞技主场\n中乙保级组第27轮\n开球（北京时
- 间）：2026-10-17 15:00\n场馆：兰州奥体中心玫瑰体育场\n场
- 馆说明：按主队2026赛季常用主场列示；临时换场以本场
- 赛事公告为准\n赛程来源：https://www.henduoqiu.com/bisai/1464020
- 8\n场馆来源：https://m.17500.cn/zq/data-stadium/match-16387\n日历
- 预留120分钟；实际终场时间可能变化。\n终场比分：兰州
- 陇原竞技 0–0 广州蒲公英
-URL:https://www.henduoqiu.com/bisai/14640208
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:兰州陇原竞技
-END:VEVENT
-BEGIN:VEVENT
 UID:lanzhou-14640213@football-calendar.ricadre.github.io
 DTSTAMP:20261024T165501Z
 CREATED:20260908T063456Z
@@ -61,14 +37,14 @@ CATEGORIES:兰州陇原竞技
 END:VEVENT
 BEGIN:VEVENT
 UID:lanzhou-14640216@football-calendar.ricadre.github.io
-DTSTAMP:20260914T024713Z
+DTSTAMP:20261031T111106Z
 CREATED:20260908T063456Z
-LAST-MODIFIED:20260914T024713Z
-SEQUENCE:4
+LAST-MODIFIED:20261031T111106Z
+SEQUENCE:5
 DTSTART:20261031T063000Z
 DTEND:20261031T083000Z
-SUMMARY:【主场】兰州陇原竞技 vs 湖北青年星｜中乙保级组
- 第29轮
+SUMMARY:【已结束】【主场】兰州陇原竞技 3–1 湖北青年星
+ ｜中乙保级组第29轮
 LOCATION:兰州奥体中心玫瑰体育场
 DESCRIPTION:兰州陇原竞技（主） vs 湖北青年星（客）\n主客
  ：兰州陇原竞技主场\n中乙保级组第29轮\n开球（北京时
@@ -76,25 +52,12 @@ DESCRIPTION:兰州陇原竞技（主） vs 湖北青年星（客）\n主客
  馆说明：按主队2026赛季常用主场列示；临时换场以本场
  赛事公告为准\n赛程来源：https://www.henduoqiu.com/bisai/1464021
  6\n场馆来源：https://m.17500.cn/zq/data-stadium/match-16387\n日历
- 预留120分钟；实际终场时间可能变化。
+ 预留120分钟；实际终场时间可能变化。\n终场比分：兰州
+ 陇原竞技 3–1 湖北青年星
 URL:https://www.henduoqiu.com/bisai/14640216
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:兰州陇原竞技
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【主场】兰州陇原竞技 vs 湖北青年星｜中乙保
- 级组第29轮\n10月31日 14:30 北京时间\n兰州奥体中心玫瑰体
- 育场
-TRIGGER:-PT19800S
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【主场】兰州陇原竞技 vs 湖北青年星｜中乙保
- 级组第29轮\n10月31日 14:30 北京时间\n兰州奥体中心玫瑰体
- 育场
-TRIGGER:-PT1800S
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lanzhou-14640221@football-calendar.ricadre.github.io
