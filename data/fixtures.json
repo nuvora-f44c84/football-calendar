@@ -1,27 +1,6 @@
 {
   "games": [
     {
-      "id": "milan-6a31e7fdc63e9a4df43c9347",
-      "team": "milan",
-      "start": "2026-10-18T16:00:00Z",
-      "date": "2026-10-18",
-      "tentative": false,
-      "home": "AC米兰",
-      "away": "亚特兰大",
-      "competition": "意甲 · 第7轮",
-      "venue": "圣西罗球场（San Siro / Giuseppe Meazza）",
-      "venue_note": "米兰官网赛程列示场馆",
-      "venue_source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "status": "Played",
-      "home_score": 3,
-      "away_score": 2,
-      "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 5,
-      "modified": "2026-10-18T19:23:43Z",
-      "created": "2026-09-08T06:34:56Z"
-    },
-    {
       "id": "milan-6a957ee0af5945385cfd8460",
       "team": "milan",
       "start": "2026-10-22T19:00:00Z",
@@ -814,10 +793,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-11-01T13:12:50Z",
-    "lanzhou": "2026-11-01T13:12:50Z"
+    "milan": "2026-11-01T18:31:50Z",
+    "lanzhou": "2026-11-01T18:31:50Z"
   },
-  "checked_at": "2026-11-01T13:12:50Z",
+  "checked_at": "2026-11-01T18:31:50Z",
   "errors": {},
   "crosscheck_status": "ok"
 }
