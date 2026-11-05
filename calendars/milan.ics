@@ -12,29 +12,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT30M
 X-PUBLISHED-TTL:PT30M
 URL:https://nuvora-f44c84.github.io/football-calendar/calendars/milan.ics
 BEGIN:VEVENT
-UID:milan-6a957ee0af5945385cfd8460@football-calendar.ricadre.github.io
-DTSTAMP:20261022T233419Z
-CREATED:20260908T063456Z
-LAST-MODIFIED:20261022T233419Z
-SEQUENCE:5
-DTSTART:20261022T190000Z
-DTEND:20261022T210000Z
-SUMMARY:【已结束】【客场】伯恩茅斯 3–0 AC米兰｜欧联杯 
- · 第3轮
-LOCATION:Vitality Stadium
-DESCRIPTION:伯恩茅斯（主） vs AC米兰（客）\n主客：AC米兰
- 客场\n欧联杯 · 第3轮\n开球（北京时间）：2026-10-23 03:00\
- n开球（意大利时间）：2026-10-22 21:00\n场馆：Vitality Stadium
- \n场馆说明：米兰官网赛程列示场馆\n赛程来源：https://ww
- w.acmilan.com/en/season/active/schedule/all\n场馆来源：https://www.ac
- milan.com/en/season/active/schedule/all\n日历预留120分钟；实际终
- 场时间可能变化。\n终场比分：伯恩茅斯 3–0 AC米兰
-URL:https://www.acmilan.com/en/season/active/schedule/all
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:AC米兰
-END:VEVENT
-BEGIN:VEVENT
 UID:milan-6a31e7fbc63e9a4df43c92fa@football-calendar.ricadre.github.io
 DTSTAMP:20261025T231059Z
 CREATED:20260908T063456Z
@@ -107,13 +84,14 @@ CATEGORIES:AC米兰
 END:VEVENT
 BEGIN:VEVENT
 UID:milan-6a957edeaf5945385cfd83f4@football-calendar.ricadre.github.io
-DTSTAMP:20260914T014631Z
+DTSTAMP:20261105T215640Z
 CREATED:20260908T063456Z
-LAST-MODIFIED:20260914T014631Z
-SEQUENCE:3
+LAST-MODIFIED:20261105T215640Z
+SEQUENCE:4
 DTSTART:20261105T174500Z
 DTEND:20261105T194500Z
-SUMMARY:【主场】AC米兰 vs 费伦茨瓦罗斯｜欧联杯 · 第4轮
+SUMMARY:【已结束】【主场】AC米兰 0–2 费伦茨瓦罗斯｜欧
+ 联杯 · 第4轮
 LOCATION:圣西罗球场（San Siro / Giuseppe Meazza）
 DESCRIPTION:AC米兰（主） vs 费伦茨瓦罗斯（客）\n主客：AC
  米兰主场\n欧联杯 · 第4轮\n开球（北京时间）：2026-11-06 
@@ -121,25 +99,12 @@ DESCRIPTION:AC米兰（主） vs 费伦茨瓦罗斯（客）\n主客：AC
  球场（San Siro / Giuseppe Meazza）\n场馆说明：米兰官网赛程
  列示场馆\n赛程来源：https://www.acmilan.com/en/season/active/sche
  dule/all\n场馆来源：https://www.acmilan.com/en/season/active/schedule
- /all\n日历预留120分钟；实际终场时间可能变化。
+ /all\n日历预留120分钟；实际终场时间可能变化。\n终场比
+ 分：AC米兰 0–2 费伦茨瓦罗斯
 URL:https://www.acmilan.com/en/season/active/schedule/all
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:AC米兰
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【主场】AC米兰 vs 费伦茨瓦罗斯｜欧联杯 · 第4
- 轮\n11月06日 01:45 北京时间\n圣西罗球场（San Siro / Giuseppe 
- Meazza）
-TRIGGER:-PT17100S
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【主场】AC米兰 vs 费伦茨瓦罗斯｜欧联杯 · 第4
- 轮\n11月06日 01:45 北京时间\n圣西罗球场（San Siro / Giuseppe 
- Meazza）
-TRIGGER:-PT1800S
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:milan-6a31e7f3c63e9a4df43c9215@football-calendar.ricadre.github.io

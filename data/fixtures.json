@@ -1,27 +1,6 @@
 {
   "games": [
     {
-      "id": "milan-6a957ee0af5945385cfd8460",
-      "team": "milan",
-      "start": "2026-10-22T19:00:00Z",
-      "date": "2026-10-22",
-      "tentative": false,
-      "home": "伯恩茅斯",
-      "away": "AC米兰",
-      "competition": "欧联杯 · 第3轮",
-      "venue": "Vitality Stadium",
-      "venue_note": "米兰官网赛程列示场馆",
-      "venue_source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "status": "Played",
-      "home_score": 3,
-      "away_score": 0,
-      "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 5,
-      "modified": "2026-10-22T23:34:19Z",
-      "created": "2026-09-08T06:34:56Z"
-    },
-    {
       "id": "lanzhou-14640213",
       "team": "lanzhou",
       "home": "温州队",
@@ -139,10 +118,12 @@
       "venue_note": "米兰官网赛程列示场馆",
       "venue_source": "https://www.acmilan.com/en/season/active/schedule/all",
       "source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "status": "Fixture",
+      "status": "Played",
+      "home_score": 0,
+      "away_score": 2,
       "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 3,
-      "modified": "2026-09-14T01:46:31Z",
+      "sequence": 4,
+      "modified": "2026-11-05T21:56:40Z",
       "created": "2026-09-08T06:34:56Z"
     },
     {
@@ -793,10 +774,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-11-05T15:47:06Z",
-    "lanzhou": "2026-11-05T15:47:06Z"
+    "milan": "2026-11-05T21:56:40Z",
+    "lanzhou": "2026-11-05T21:56:40Z"
   },
-  "checked_at": "2026-11-05T15:47:06Z",
+  "checked_at": "2026-11-05T21:56:40Z",
   "errors": {},
   "crosscheck_status": "ok"
 }
