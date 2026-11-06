@@ -13,10 +13,10 @@ X-PUBLISHED-TTL:PT30M
 URL:https://nuvora-f44c84.github.io/football-calendar/calendars/all.ics
 BEGIN:VEVENT
 UID:lanzhou-14640213@football-calendar.ricadre.github.io
-DTSTAMP:20261024T165501Z
+DTSTAMP:20261106T172554Z
 CREATED:20260908T063456Z
-LAST-MODIFIED:20261024T165501Z
-SEQUENCE:6
+LAST-MODIFIED:20261106T172554Z
+SEQUENCE:7
 DTSTART:20261024T113000Z
 DTEND:20261024T133000Z
 SUMMARY:【已结束】【客场】温州队 0–0 兰州陇原竞技｜中
@@ -29,7 +29,8 @@ DESCRIPTION:温州队（主） vs 兰州陇原竞技（客）\n主客：兰
  公告为准\n赛程来源：https://www.henduoqiu.com/bisai/14640213\n场
  馆来源：https://news.66wz.com/system/2026/06/14/105789083.shtml\n日
  历预留120分钟；实际终场时间可能变化。\n终场比分：温
- 州队 0–0 兰州陇原竞技
+ 州队 0–0 兰州陇原竞技\n更新说明：本场读取失败，保
+ 留上次确认内容。
 URL:https://www.henduoqiu.com/bisai/14640213
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -84,10 +85,10 @@ CATEGORIES:AC米兰
 END:VEVENT
 BEGIN:VEVENT
 UID:lanzhou-14640216@football-calendar.ricadre.github.io
-DTSTAMP:20261031T111106Z
+DTSTAMP:20261106T172554Z
 CREATED:20260908T063456Z
-LAST-MODIFIED:20261031T111106Z
-SEQUENCE:5
+LAST-MODIFIED:20261106T172554Z
+SEQUENCE:6
 DTSTART:20261031T063000Z
 DTEND:20261031T083000Z
 SUMMARY:【已结束】【主场】兰州陇原竞技 3–1 湖北青年星
@@ -100,7 +101,8 @@ DESCRIPTION:兰州陇原竞技（主） vs 湖北青年星（客）\n主客
  赛事公告为准\n赛程来源：https://www.henduoqiu.com/bisai/1464021
  6\n场馆来源：https://m.17500.cn/zq/data-stadium/match-16387\n日历
  预留120分钟；实际终场时间可能变化。\n终场比分：兰州
- 陇原竞技 3–1 湖北青年星
+ 陇原竞技 3–1 湖北青年星\n更新说明：本场读取失败，
+ 保留上次确认内容。
 URL:https://www.henduoqiu.com/bisai/14640216
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -156,10 +158,10 @@ CATEGORIES:AC米兰
 END:VEVENT
 BEGIN:VEVENT
 UID:lanzhou-14640221@football-calendar.ricadre.github.io
-DTSTAMP:20260914T024713Z
+DTSTAMP:20261106T172554Z
 CREATED:20260908T063456Z
-LAST-MODIFIED:20260914T024713Z
-SEQUENCE:4
+LAST-MODIFIED:20261106T172554Z
+SEQUENCE:5
 DTSTART:20261107T063000Z
 DTEND:20261107T083000Z
 SUMMARY:【客场】广东铭途 vs 兰州陇原竞技｜中乙保级组第
@@ -171,7 +173,8 @@ DESCRIPTION:广东铭途（主） vs 兰州陇原竞技（客）\n主客：
  按主队2026赛季常用主场列示；临时换场以本场赛事公告
  为准\n赛程来源：https://www.henduoqiu.com/bisai/14640221\n场馆来
  源：https://www.gdfa.gd.cn/news/2674\n日历预留120分钟；实际终
- 场时间可能变化。
+ 场时间可能变化。\n更新说明：本场读取失败，保留上次
+ 确认内容。
 URL:https://www.henduoqiu.com/bisai/14640221
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
