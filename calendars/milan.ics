@@ -108,13 +108,14 @@ CATEGORIES:AC米兰
 END:VEVENT
 BEGIN:VEVENT
 UID:milan-6a31e7f3c63e9a4df43c9215@football-calendar.ricadre.github.io
-DTSTAMP:20260914T014631Z
+DTSTAMP:20261108T182841Z
 CREATED:20260908T063456Z
-LAST-MODIFIED:20260914T014631Z
-SEQUENCE:3
+LAST-MODIFIED:20261108T182841Z
+SEQUENCE:4
 DTSTART:20261108T140000Z
 DTEND:20261108T160000Z
-SUMMARY:【客场】热那亚 vs AC米兰｜意甲 · 第11轮
+SUMMARY:【已结束】【客场】热那亚 1–2 AC米兰｜意甲 · 第
+ 11轮
 LOCATION:Stadio Ferraris
 DESCRIPTION:热那亚（主） vs AC米兰（客）\n主客：AC米兰客
  场\n意甲 · 第11轮\n开球（北京时间）：2026-11-08 22:00\n开
@@ -122,23 +123,11 @@ DESCRIPTION:热那亚（主） vs AC米兰（客）\n主客：AC米兰客
  馆说明：米兰官网赛程列示场馆\n赛程来源：https://www.acm
  ilan.com/en/season/active/schedule/all\n场馆来源：https://www.acmilan
  .com/en/season/active/schedule/all\n日历预留120分钟；实际终场
- 时间可能变化。
+ 时间可能变化。\n终场比分：热那亚 1–2 AC米兰
 URL:https://www.acmilan.com/en/season/active/schedule/all
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:AC米兰
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【客场】热那亚 vs AC米兰｜意甲 · 第11轮\n11月08
- 日 22:00 北京时间\nStadio Ferraris
-TRIGGER:-PT46800S
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【客场】热那亚 vs AC米兰｜意甲 · 第11轮\n11月08
- 日 22:00 北京时间\nStadio Ferraris
-TRIGGER:-PT1800S
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:milan-6a31e7f1c63e9a4df43c91c9@football-calendar.ricadre.github.io
