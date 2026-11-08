@@ -12,29 +12,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT30M
 X-PUBLISHED-TTL:PT30M
 URL:https://nuvora-f44c84.github.io/football-calendar/calendars/milan.ics
 BEGIN:VEVENT
-UID:milan-6a31e7fbc63e9a4df43c92fa@football-calendar.ricadre.github.io
-DTSTAMP:20261025T231059Z
-CREATED:20260908T063456Z
-LAST-MODIFIED:20261025T231059Z
-SEQUENCE:5
-DTSTART:20261025T194500Z
-DTEND:20261025T214500Z
-SUMMARY:【已结束】【客场】乌迪内斯 0–2 AC米兰｜意甲 · 
- 第8轮
-LOCATION:Bluenergy Stadium
-DESCRIPTION:乌迪内斯（主） vs AC米兰（客）\n主客：AC米兰
- 客场\n意甲 · 第8轮\n开球（北京时间）：2026-10-26 03:45\n
- 开球（意大利时间）：2026-10-25 20:45\n场馆：Bluenergy Stadium
- \n场馆说明：米兰官网赛程列示场馆\n赛程来源：https://ww
- w.acmilan.com/en/season/active/schedule/all\n场馆来源：https://www.ac
- milan.com/en/season/active/schedule/all\n日历预留120分钟；实际终
- 场时间可能变化。\n终场比分：乌迪内斯 0–2 AC米兰
-URL:https://www.acmilan.com/en/season/active/schedule/all
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:AC米兰
-END:VEVENT
-BEGIN:VEVENT
 UID:milan-6a31e7f9c63e9a4df43c92ae@football-calendar.ricadre.github.io
 DTSTAMP:20261028T231005Z
 CREATED:20260908T063456Z

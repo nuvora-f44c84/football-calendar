@@ -1,27 +1,6 @@
 {
   "games": [
     {
-      "id": "milan-6a31e7fbc63e9a4df43c92fa",
-      "team": "milan",
-      "start": "2026-10-25T19:45:00Z",
-      "date": "2026-10-25",
-      "tentative": false,
-      "home": "乌迪内斯",
-      "away": "AC米兰",
-      "competition": "意甲 · 第8轮",
-      "venue": "Bluenergy Stadium",
-      "venue_note": "米兰官网赛程列示场馆",
-      "venue_source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "status": "Played",
-      "home_score": 0,
-      "away_score": 2,
-      "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 5,
-      "modified": "2026-10-25T23:10:59Z",
-      "created": "2026-09-08T06:34:56Z"
-    },
-    {
       "id": "milan-6a31e7f9c63e9a4df43c92ae",
       "team": "milan",
       "start": "2026-10-28T17:30:00Z",
@@ -759,10 +738,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-11-08T18:28:41Z",
+    "milan": "2026-11-08T22:26:49Z",
     "lanzhou": "2026-11-08T13:14:39Z"
   },
-  "checked_at": "2026-11-08T18:28:41Z",
+  "checked_at": "2026-11-08T22:26:49Z",
   "errors": {
     "lanzhou": "球队列表：Cannot read https://www.henduoqiu.com/qiudui/170468: <urlopen error [Errno -2] Name or service not known>; lanzhou-14640216：Cannot read https://www.henduoqiu.com/bisai/14640216: <urlopen error [Errno -2] Name or service not known>; lanzhou-14640221：Cannot read https://www.henduoqiu.com/bisai/14640221: <urlopen error [Errno -2] Name or service not known>"
   },
