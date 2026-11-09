@@ -738,10 +738,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-11-08T22:26:49Z",
+    "milan": "2026-11-09T01:56:04Z",
     "lanzhou": "2026-11-08T13:14:39Z"
   },
-  "checked_at": "2026-11-08T22:26:49Z",
+  "checked_at": "2026-11-09T01:56:04Z",
   "errors": {
     "lanzhou": "球队列表：Cannot read https://www.henduoqiu.com/qiudui/170468: <urlopen error [Errno -2] Name or service not known>; lanzhou-14640216：Cannot read https://www.henduoqiu.com/bisai/14640216: <urlopen error [Errno -2] Name or service not known>; lanzhou-14640221：Cannot read https://www.henduoqiu.com/bisai/14640221: <urlopen error [Errno -2] Name or service not known>"
   },
