@@ -37,10 +37,9 @@
       "venue_source": "https://m.17500.cn/zq/data-stadium/match-16387",
       "home_score": 3,
       "away_score": 1,
-      "refresh_warning": "本场读取失败，保留上次确认内容。",
       "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 8,
-      "modified": "2026-11-08T18:28:41Z",
+      "sequence": 9,
+      "modified": "2026-11-09T09:39:33Z",
       "created": "2026-09-08T06:34:56Z"
     },
     {
@@ -101,10 +100,9 @@
       "venue_source": "https://www.gdfa.gd.cn/news/2674",
       "home_score": 0,
       "away_score": 1,
-      "refresh_warning": "本场读取失败，保留上次确认内容。",
       "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 7,
-      "modified": "2026-11-08T18:28:41Z",
+      "sequence": 8,
+      "modified": "2026-11-09T09:39:33Z",
       "created": "2026-09-08T06:34:56Z"
     },
     {
@@ -738,12 +736,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-11-09T01:56:04Z",
-    "lanzhou": "2026-11-08T13:14:39Z"
+    "milan": "2026-11-09T09:39:33Z",
+    "lanzhou": "2026-11-09T09:39:33Z"
   },
-  "checked_at": "2026-11-09T01:56:04Z",
-  "errors": {
-    "lanzhou": "球队列表：Cannot read https://www.henduoqiu.com/qiudui/170468: <urlopen error [Errno -2] Name or service not known>; lanzhou-14640216：Cannot read https://www.henduoqiu.com/bisai/14640216: <urlopen error [Errno -2] Name or service not known>; lanzhou-14640221：Cannot read https://www.henduoqiu.com/bisai/14640221: <urlopen error [Errno -2] Name or service not known>"
-  },
+  "checked_at": "2026-11-09T09:39:33Z",
+  "errors": {},
   "crosscheck_status": "ok"
 }
