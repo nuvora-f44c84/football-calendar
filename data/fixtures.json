@@ -1,27 +1,6 @@
 {
   "games": [
     {
-      "id": "milan-6a31e7f9c63e9a4df43c92ae",
-      "team": "milan",
-      "start": "2026-10-28T17:30:00Z",
-      "date": "2026-10-28",
-      "tentative": false,
-      "home": "AC米兰",
-      "away": "博洛尼亚",
-      "competition": "意甲 · 第9轮",
-      "venue": "圣西罗球场（San Siro / Giuseppe Meazza）",
-      "venue_note": "米兰官网赛程列示场馆",
-      "venue_source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "status": "Played",
-      "home_score": 2,
-      "away_score": 4,
-      "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 5,
-      "modified": "2026-10-28T23:10:05Z",
-      "created": "2026-09-08T06:34:56Z"
-    },
-    {
       "id": "lanzhou-14640216",
       "team": "lanzhou",
       "home": "兰州陇原竞技",
@@ -736,10 +715,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-11-11T15:35:18Z",
-    "lanzhou": "2026-11-11T15:35:18Z"
+    "milan": "2026-11-11T22:15:32Z",
+    "lanzhou": "2026-11-11T22:15:32Z"
   },
-  "checked_at": "2026-11-11T15:35:18Z",
+  "checked_at": "2026-11-11T22:15:32Z",
   "errors": {},
   "crosscheck_status": "ok"
 }
