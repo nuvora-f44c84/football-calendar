@@ -1,27 +1,6 @@
 {
   "games": [
     {
-      "id": "milan-6a31e7f6c63e9a4df43c9262",
-      "team": "milan",
-      "start": "2026-10-31T19:45:00Z",
-      "date": "2026-10-31",
-      "tentative": false,
-      "home": "AC米兰",
-      "away": "国际米兰",
-      "competition": "意甲 · 第10轮",
-      "venue": "圣西罗球场（San Siro / Giuseppe Meazza）",
-      "venue_note": "米兰官网赛程列示场馆",
-      "venue_source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "status": "Played",
-      "home_score": 3,
-      "away_score": 1,
-      "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 5,
-      "modified": "2026-10-31T23:40:27Z",
-      "created": "2026-09-08T06:34:56Z"
-    },
-    {
       "id": "milan-6a957edeaf5945385cfd83f4",
       "team": "milan",
       "start": "2026-11-05T17:45:00Z",
@@ -694,10 +673,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-11-14T16:42:29Z",
-    "lanzhou": "2026-11-14T16:42:29Z"
+    "milan": "2026-11-14T21:24:17Z",
+    "lanzhou": "2026-11-14T21:24:17Z"
   },
-  "checked_at": "2026-11-14T16:42:29Z",
+  "checked_at": "2026-11-14T21:24:17Z",
   "errors": {},
   "crosscheck_status": "ok"
 }
