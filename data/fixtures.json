@@ -1,27 +1,6 @@
 {
   "games": [
     {
-      "id": "lanzhou-14640216",
-      "team": "lanzhou",
-      "home": "兰州陇原竞技",
-      "away": "湖北青年星",
-      "source": "https://www.henduoqiu.com/bisai/14640216",
-      "start": "2026-10-31T06:30:00Z",
-      "date": "2026-10-31",
-      "status": "Played",
-      "tentative": false,
-      "competition": "中乙保级组第29轮",
-      "venue": "兰州奥体中心玫瑰体育场",
-      "venue_note": "按主队2026赛季常用主场列示；临时换场以本场赛事公告为准",
-      "venue_source": "https://m.17500.cn/zq/data-stadium/match-16387",
-      "home_score": 3,
-      "away_score": 1,
-      "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 9,
-      "modified": "2026-11-09T09:39:33Z",
-      "created": "2026-09-08T06:34:56Z"
-    },
-    {
       "id": "milan-6a31e7f6c63e9a4df43c9262",
       "team": "milan",
       "start": "2026-10-31T19:45:00Z",
@@ -715,10 +694,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-11-14T02:40:09Z",
-    "lanzhou": "2026-11-14T02:40:09Z"
+    "milan": "2026-11-14T10:12:24Z",
+    "lanzhou": "2026-11-14T10:12:24Z"
   },
-  "checked_at": "2026-11-14T02:40:09Z",
+  "checked_at": "2026-11-14T10:12:24Z",
   "errors": {},
   "crosscheck_status": "ok"
 }
