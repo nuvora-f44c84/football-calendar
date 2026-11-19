@@ -1,27 +1,6 @@
 {
   "games": [
     {
-      "id": "milan-6a957edeaf5945385cfd83f4",
-      "team": "milan",
-      "start": "2026-11-05T17:45:00Z",
-      "date": "2026-11-05",
-      "tentative": false,
-      "home": "AC米兰",
-      "away": "费伦茨瓦罗斯",
-      "competition": "欧联杯 · 第4轮",
-      "venue": "圣西罗球场（San Siro / Giuseppe Meazza）",
-      "venue_note": "米兰官网赛程列示场馆",
-      "venue_source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "status": "Played",
-      "home_score": 0,
-      "away_score": 2,
-      "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 4,
-      "modified": "2026-11-05T21:56:40Z",
-      "created": "2026-09-08T06:34:56Z"
-    },
-    {
       "id": "lanzhou-14640221",
       "team": "lanzhou",
       "home": "广东铭途",
@@ -673,10 +652,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-11-19T09:27:36Z",
-    "lanzhou": "2026-11-19T09:27:36Z"
+    "milan": "2026-11-19T18:38:07Z",
+    "lanzhou": "2026-11-19T18:38:07Z"
   },
-  "checked_at": "2026-11-19T09:27:36Z",
+  "checked_at": "2026-11-19T18:38:07Z",
   "errors": {},
   "crosscheck_status": "ok"
 }
