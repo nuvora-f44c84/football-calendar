@@ -12,37 +12,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT30M
 X-PUBLISHED-TTL:PT30M
 URL:https://nuvora-f44c84.github.io/football-calendar/calendars/milan.ics
 BEGIN:VEVENT
-UID:milan-6a31e7f3c63e9a4df43c9215@football-calendar.ricadre.github.io
-DTSTAMP:20261108T182841Z
-CREATED:20260908T063456Z
-LAST-MODIFIED:20261108T182841Z
-SEQUENCE:4
-DTSTART:20261108T140000Z
-DTEND:20261108T160000Z
-SUMMARY:【已结束】【客场】热那亚 1–2 AC米兰｜意甲 · 第
- 11轮
-LOCATION:Stadio Ferraris
-DESCRIPTION:热那亚（主） vs AC米兰（客）\n主客：AC米兰客
- 场\n意甲 · 第11轮\n开球（北京时间）：2026-11-08 22:00\n开
- 球（意大利时间）：2026-11-08 15:00\n场馆：Stadio Ferraris\n场
- 馆说明：米兰官网赛程列示场馆\n赛程来源：https://www.acm
- ilan.com/en/season/active/schedule/all\n场馆来源：https://www.acmilan
- .com/en/season/active/schedule/all\n日历预留120分钟；实际终场
- 时间可能变化。\n终场比分：热那亚 1–2 AC米兰
-URL:https://www.acmilan.com/en/season/active/schedule/all
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:AC米兰
-END:VEVENT
-BEGIN:VEVENT
 UID:milan-6a31e7f1c63e9a4df43c91c9@football-calendar.ricadre.github.io
-DTSTAMP:20260925T183139Z
+DTSTAMP:20261122T170411Z
 CREATED:20260908T063456Z
-LAST-MODIFIED:20260925T183139Z
-SEQUENCE:4
+LAST-MODIFIED:20261122T170411Z
+SEQUENCE:5
 DTSTART:20261122T170000Z
 DTEND:20261122T190000Z
-SUMMARY:【主场】AC米兰 vs 弗罗西诺内｜意甲 · 第12轮
+SUMMARY:【进行中】【主场】AC米兰 0–0 弗罗西诺内｜意甲 
+ · 第12轮
 LOCATION:圣西罗球场（San Siro / Giuseppe Meazza）
 DESCRIPTION:AC米兰（主） vs 弗罗西诺内（客）\n主客：AC米
  兰主场\n意甲 · 第12轮\n开球（北京时间）：2026-11-23 01:00
@@ -50,25 +28,12 @@ DESCRIPTION:AC米兰（主） vs 弗罗西诺内（客）\n主客：AC米
  （San Siro / Giuseppe Meazza）\n场馆说明：米兰官网赛程列示
  场馆\n赛程来源：https://www.acmilan.com/en/season/active/schedule/a
  ll\n场馆来源：https://www.acmilan.com/en/season/active/schedule/all\n
- 日历预留120分钟；实际终场时间可能变化。
+ 日历预留120分钟；实际终场时间可能变化。\n当前比分（
+ 非实时推送）：AC米兰 0–0 弗罗西诺内
 URL:https://www.acmilan.com/en/season/active/schedule/all
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:AC米兰
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【主场】AC米兰 vs 弗罗西诺内｜意甲 · 第12轮\n1
- 1月23日 01:00 北京时间\n圣西罗球场（San Siro / Giuseppe Meazza
- ）
-TRIGGER:-PT14400S
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【主场】AC米兰 vs 弗罗西诺内｜意甲 · 第12轮\n1
- 1月23日 01:00 北京时间\n圣西罗球场（San Siro / Giuseppe Meazza
- ）
-TRIGGER:-PT1800S
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:milan-6a957edbaf5945385cfd8339@football-calendar.ricadre.github.io

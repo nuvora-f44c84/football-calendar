@@ -1,27 +1,6 @@
 {
   "games": [
     {
-      "id": "milan-6a31e7f3c63e9a4df43c9215",
-      "team": "milan",
-      "start": "2026-11-08T14:00:00Z",
-      "date": "2026-11-08",
-      "tentative": false,
-      "home": "热那亚",
-      "away": "AC米兰",
-      "competition": "意甲 · 第11轮",
-      "venue": "Stadio Ferraris",
-      "venue_note": "米兰官网赛程列示场馆",
-      "venue_source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "status": "Played",
-      "home_score": 1,
-      "away_score": 2,
-      "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 4,
-      "modified": "2026-11-08T18:28:41Z",
-      "created": "2026-09-08T06:34:56Z"
-    },
-    {
       "id": "milan-6a31e7f1c63e9a4df43c91c9",
       "team": "milan",
       "start": "2026-11-22T17:00:00Z",
@@ -34,10 +13,12 @@
       "venue_note": "米兰官网赛程列示场馆",
       "venue_source": "https://www.acmilan.com/en/season/active/schedule/all",
       "source": "https://www.acmilan.com/en/season/active/schedule/all",
-      "status": "Fixture",
+      "status": "Live",
+      "home_score": 0,
+      "away_score": 0,
       "presentation_revision": "c1c114740daaf881321c",
-      "sequence": 4,
-      "modified": "2026-09-25T18:31:39Z",
+      "sequence": 5,
+      "modified": "2026-11-22T17:04:11Z",
       "created": "2026-09-08T06:34:56Z"
     },
     {
@@ -631,10 +612,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-11-22T08:45:50Z",
+    "milan": "2026-11-22T17:04:11Z",
     "lanzhou": "2026-11-21T15:16:39Z"
   },
-  "checked_at": "2026-11-22T08:45:50Z",
+  "checked_at": "2026-11-22T17:04:11Z",
   "errors": {
     "lanzhou": "No Lanzhou match pages could be read: "
   },
