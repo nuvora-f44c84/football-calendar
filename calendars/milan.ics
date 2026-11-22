@@ -13,13 +13,13 @@ X-PUBLISHED-TTL:PT30M
 URL:https://nuvora-f44c84.github.io/football-calendar/calendars/milan.ics
 BEGIN:VEVENT
 UID:milan-6a31e7f1c63e9a4df43c91c9@football-calendar.ricadre.github.io
-DTSTAMP:20261122T170411Z
+DTSTAMP:20261122T222605Z
 CREATED:20260908T063456Z
-LAST-MODIFIED:20261122T170411Z
-SEQUENCE:5
+LAST-MODIFIED:20261122T222605Z
+SEQUENCE:6
 DTSTART:20261122T170000Z
 DTEND:20261122T190000Z
-SUMMARY:【进行中】【主场】AC米兰 0–0 弗罗西诺内｜意甲 
+SUMMARY:【已结束】【主场】AC米兰 5–1 弗罗西诺内｜意甲 
  · 第12轮
 LOCATION:圣西罗球场（San Siro / Giuseppe Meazza）
 DESCRIPTION:AC米兰（主） vs 弗罗西诺内（客）\n主客：AC米
@@ -28,8 +28,8 @@ DESCRIPTION:AC米兰（主） vs 弗罗西诺内（客）\n主客：AC米
  （San Siro / Giuseppe Meazza）\n场馆说明：米兰官网赛程列示
  场馆\n赛程来源：https://www.acmilan.com/en/season/active/schedule/a
  ll\n场馆来源：https://www.acmilan.com/en/season/active/schedule/all\n
- 日历预留120分钟；实际终场时间可能变化。\n当前比分（
- 非实时推送）：AC米兰 0–0 弗罗西诺内
+ 日历预留120分钟；实际终场时间可能变化。\n终场比分：
+ AC米兰 5–1 弗罗西诺内
 URL:https://www.acmilan.com/en/season/active/schedule/all
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
