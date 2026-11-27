@@ -614,10 +614,10 @@
     }
   ],
   "source_success": {
-    "milan": "2026-11-27T00:31:34Z",
+    "milan": "2026-11-27T09:01:12Z",
     "lanzhou": "2026-11-21T15:16:39Z"
   },
-  "checked_at": "2026-11-27T00:31:34Z",
+  "checked_at": "2026-11-27T09:01:12Z",
   "errors": {
     "lanzhou": "No Lanzhou match pages could be read: "
   },
