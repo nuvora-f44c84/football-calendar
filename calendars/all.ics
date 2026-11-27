@@ -37,13 +37,14 @@ CATEGORIES:AC米兰
 END:VEVENT
 BEGIN:VEVENT
 UID:milan-6a957edbaf5945385cfd8339@football-calendar.ricadre.github.io
-DTSTAMP:20260914T014631Z
+DTSTAMP:20261127T003134Z
 CREATED:20260908T063456Z
-LAST-MODIFIED:20260914T014631Z
-SEQUENCE:3
+LAST-MODIFIED:20261127T003134Z
+SEQUENCE:4
 DTSTART:20261126T174500Z
 DTEND:20261126T194500Z
-SUMMARY:【客场】奥林匹亚科斯 vs AC米兰｜欧联杯 · 第5轮
+SUMMARY:【已结束】【客场】奥林匹亚科斯 2–4 AC米兰｜欧
+ 联杯 · 第5轮
 LOCATION:Stadio Georgios Karaiskákis
 DESCRIPTION:奥林匹亚科斯（主） vs AC米兰（客）\n主客：AC
  米兰客场\n欧联杯 · 第5轮\n开球（北京时间）：2026-11-27 
@@ -51,23 +52,12 @@ DESCRIPTION:奥林匹亚科斯（主） vs AC米兰（客）\n主客：AC
  rgios Karaiskákis\n场馆说明：米兰官网赛程列示场馆\n赛程
  来源：https://www.acmilan.com/en/season/active/schedule/all\n场馆来
  源：https://www.acmilan.com/en/season/active/schedule/all\n日历预留1
- 20分钟；实际终场时间可能变化。
+ 20分钟；实际终场时间可能变化。\n终场比分：奥林匹亚
+ 科斯 2–4 AC米兰
 URL:https://www.acmilan.com/en/season/active/schedule/all
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:AC米兰
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【客场】奥林匹亚科斯 vs AC米兰｜欧联杯 · 第5
- 轮\n11月27日 01:45 北京时间\nStadio Georgios Karaiskákis
-TRIGGER:-PT17100S
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:【客场】奥林匹亚科斯 vs AC米兰｜欧联杯 · 第5
- 轮\n11月27日 01:45 北京时间\nStadio Georgios Karaiskákis
-TRIGGER:-PT1800S
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:milan-6a31e7efc63e9a4df43c917d@football-calendar.ricadre.github.io
